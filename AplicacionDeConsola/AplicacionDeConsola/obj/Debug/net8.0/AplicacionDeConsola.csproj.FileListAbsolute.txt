@@ -1,0 +1,15 @@
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net8.0\AplicacionDeConsola.exe
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net8.0\AplicacionDeConsola.deps.json
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net8.0\AplicacionDeConsola.runtimeconfig.json
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net8.0\AplicacionDeConsola.dll
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\bin\Debug\net8.0\AplicacionDeConsola.pdb
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\AplicacionDeConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\AplicacionDeConsola.AssemblyInfoInputs.cache
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\AplicacionDeConsola.AssemblyInfo.cs
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\AplicacionDeConsola.csproj.CoreCompileInputs.cache
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\AplicacionDeConsola.sourcelink.json
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\AplicacionDeConsola.dll
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\refint\AplicacionDeConsola.dll
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\AplicacionDeConsola.pdb
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\AplicacionDeConsola.genruntimeconfig.cache
+C:\Users\Orfhen2022\Desktop\Practicas_C_Sharp\1_practicas de curso de mouredev\AplicacionDeConsola\AplicacionDeConsola\obj\Debug\net8.0\ref\AplicacionDeConsola.dll
